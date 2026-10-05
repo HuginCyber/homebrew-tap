@@ -1,4 +1,4 @@
-cask "hugin" do
+cask "hugin-cyber" do
   version "0.4.42"
 
   on_arm do
@@ -14,7 +14,7 @@ cask "hugin" do
   end
 
   name "Hugin"
-  desc "Intercepting proxy, vulnerability scanner, intruder and AI agent"
+  desc "Intercepting proxy, vulnerability scanner and AI agent for web security testing"
   homepage "https://hugin.nu"
 
   app "Hugin.app"
